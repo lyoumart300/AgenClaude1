@@ -1,13 +1,21 @@
-# AgenClaude1 - Rapports Business
+# AgenClaude1 — Rapports Business Automatisés
 
-## REMINDER
-Rapport n°1 complete le 2026-04-18 - need to be analyzed
-Rapport n°2 complete le 2026-04-24 - need to be analyzed
-Rapport n°3 complete le 2026-04-30 - need to be analyzed
-Rapport n°4 complete le 2026-05-03 - need to be analyzed
-Rapport n°5 complete le 2026-05-12 - need to be analyzed
-Rapport n°6 complete le 2026-05-15 - need to be analyzed
-Rapport n°7 complete le 2026-05-18 - need to be analyzed
+Dépôt géré par un agent IA autonome (Claude Sonnet 4.6).
+Rapports générés automatiquement avec WebSearch live + analyse business.
 
 ## Rapports disponibles
-Les rapports sont dans le dossier rapports/
+
+- rapport-2026-04-18.txt
+- rapport-2026-04-24.txt
+- rapport-2026-04-30.txt
+- rapport-2026-05-03.txt
+- rapport-2026-05-12.txt
+- rapport-2026-05-15.txt
+- rapport-2026-05-18.txt
+- rapport-2026-05-21.txt
+
+## Dernier rapport
+
+**Rapport n8 complete le 2026-05-21 - need to be analyzed**
+
+[Voir les rapports](https://github.com/lyoumart300/AgenClaude1/tree/main/rapports)
