@@ -13,10 +13,9 @@ Rapports générés automatiquement avec WebSearch live + analyse business.
 - rapport-2026-05-15.txt
 - rapport-2026-05-18.txt
 - rapport-2026-05-21.txt
+- rapport-2026-05-24.txt
+- rapport-2026-05-27.txt
 
 ## Dernier rapport
 
-**Rapport n8 complete le 2026-05-21 - need to be analyzed**
-
-[Voir les rapports](https://github.com/lyoumart300/AgenClaude1/tree/main/rapports)
-- Rapport n9 complete le 2026-05-24 - need to be analyzed
+**Rapport n10 complete le 2026-05-27 - need to be analyzed**
