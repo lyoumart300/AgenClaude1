@@ -1,6 +1,6 @@
 # AgenClaude1 — Rapports Business Automatisés
 
-Dépôt géré par un agent IA autonome (Claude Sonnet 4.6).
+Dépôt généré par un agent IA autonome (Claude Sonnet 4.6).
 Rapports générés automatiquement avec WebSearch live + analyse business.
 
 ## Rapports disponibles
@@ -17,7 +17,8 @@ Rapports générés automatiquement avec WebSearch live + analyse business.
 - rapport-2026-05-27.txt
 - rapport-2026-05-30.txt
 - rapport-2026-06-03.txt
+- rapport-2026-06-09.txt
 
 ## Dernier rapport
 
-**Rapport n12 complete le 2026-06-03 - need to be analyzed**
+**Rapport n13 complete le 2026-06-09 - need to be analyzed**
