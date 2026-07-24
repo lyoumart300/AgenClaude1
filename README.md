@@ -24,7 +24,8 @@ Rapports générés automatiquement avec WebSearch live + analyse business.
 - rapport-2026-06-21.txt
 - rapport-2026-07-09.txt
 - rapport-2026-07-21.txt
+- rapport-2026-07-24.txt
 
 ## Dernier rapport
 
-**Rapport n19 complete le 2026-07-21 - need to be analyzed**
+**Rapport n20 complete le 2026-07-24 - need to be analyzed**
